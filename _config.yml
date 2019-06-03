@@ -1,4 +1,3 @@
-# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,7 +12,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gabriel Kwan 
+title: Gabriel Kwan   
 email: me@gabrielk.ca 
 description: >- # this means to ignore newlines until "baseurl:"
         Personal Website of Gabriel Kwan
@@ -21,6 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gabrielk.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kspctate 
 github_username: fumofu
+linkedin_username: gabrielkwan93
 
 # Build settings
 markdown: kramdown
