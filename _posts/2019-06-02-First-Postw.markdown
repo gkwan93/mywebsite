@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meta 1"
+title:  "Meta 1: Discovering Jekyll"
 date:   2019-06-02 
 categories: blog jekyll meta 
 author: Gabriel Kwan

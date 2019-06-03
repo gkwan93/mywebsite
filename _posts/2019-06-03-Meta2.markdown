@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Meta 2: Excerpts and Modifying Defaults"
+date:   2019-06-02 
+categories: blog jekyll meta 
+author: Gabriel Kwan
+---
+
+Learned some new things, made some changes. Hopefully all good changes.
+
+
+## Excerpts
+
+Prior to enabling excerpts, only the tile of the blog was enabled. As more posts come up, it might be helpful to have an excerpt of the post to give a glimpse into what the post is about. Once enabled, an excerpt is generated underneath each post on the home page. This excerpt is derived from the first paragraph.
+
+Can be enabled by inserting the following in _config.yaml file.
+
+```YAML
+show_excerpts: true
+```
+
+Some pages also suggest ensuring that the post.excerpt is encapsulated with paragraph tag like as seen below:
+
+~~~HTML
+<!-- remove the spaces in between the }  -->
+<p>{ { post.excerpt } }</p>
+~~~~
+
+Based off some limited testing that does seem to be the case. Provided you enable excerpts in the main configuration file, the first paragraph will be used for the excerpt.
+
+## Overriding Defaults
+
+In order to modify the default layout, _layout and template HTML files corresponding to layouts that come with theme. It might be easier to just copy the said templates directly from the git repository or find the the files located on your computer. This can be done using the following command:
+
+~~~BASH
+~/mywebsite master*
+❯ bundle show minima
+# Additional Output removed for brevity 
+/home/gabriel/gems/gems/minima-2.5.0
+
+~/mywebsite master*
+❯
+~~~~
+
+Make sure the directory structure matches as seen below:
+
+~~~BASH
+ ~/mywebsite master*
+❯ tree ~/gems/gems/minima-2.5.0
+/home/gabriel/gems/gems/minima-2.5.0
+├── assets
+│   ├── main.scss
+│   └── minima-social-icons.svg
+├── _includes
+│   ├── disqus_comments.html
+│   ├── footer.html
+│   ├── google-analytics.html
+│   ├── header.html
+│   ├── head.html
+│   ├── icon-github.html
+│   ├── icon-github.svg
+│   ├── icon-twitter.html
+│   ├── icon-twitter.svg
+│   └── social.html
+├── _layouts
+│   ├── default.html
+│   ├── home.html
+│   ├── page.html
+│   └── post.html
+├── LICENSE.txt
+├── README.md
+└── _sass
+    ├── minima
+    │   ├── _base.scss
+    │   ├── _layout.scss
+    │   └── _syntax-highlighting.scss
+    └── minima.scss
+
+5 directories, 22 files
+
+~~~
+
+Changes were made to the _layouts/home.html file to test if excerpt required paragraph tags. No other significant changes were made.
