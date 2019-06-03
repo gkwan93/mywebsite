@@ -3,6 +3,8 @@ layout: post
 title:  "Meta 1"
 date:   2019-06-02 
 categories: blog jekyll meta 
+author: Gabriel Kwan
+exerpt: Welcome to the first blog post of this Jekyll generated website.
 ---
 
 Welcome to the first blog post of this Jekyll generated website.

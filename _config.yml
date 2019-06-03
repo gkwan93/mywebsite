@@ -23,6 +23,7 @@ github_username: fumofu
 linkedin_username: gabrielkwan93
 
 # Build settings
+show_excerpts: true
 markdown: kramdown
 theme: minima
 plugins:
