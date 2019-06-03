@@ -50,4 +50,4 @@ Check <https://github.com/fumofu/mywebsite> for more details.
 
 ### Future Configuration
 
-While the default theme is clean, an "about me" panel on the left or right side of the page. It just seems like there is a lot of empty space. That may require digging deeper into the documentation and brushing up on ruby modify default theme to enable this.
+While the default theme is clean, an "about me" panel on the left or right side of the page would be desirable. It just seems like there is a lot of empty space. That may require digging deeper into the documentation and brushing up on ruby modify default theme to enable this.
