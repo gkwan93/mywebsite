@@ -19,10 +19,10 @@ author:
   number: 778-996-6034
 description: >- # this means to ignore newlines until "baseurl:"
         Personal Website of Gabriel Kwan
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gabrielk.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kspctate 
-github_username: fumofu
+github_username: gkwan93
 linkedin_username: gabrielkwan93
 
 # Build settings

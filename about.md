@@ -21,23 +21,23 @@ Skills, experience or anything I am proud of.
    
   The following are a non-exhaustive sampling of technical documents that I have worked on during my time at CISA and BAIST:
 
-   [Base Skype For Business Deployment](/Assets/PDF/ResearchLab.pdf)
+   [Base Skype For Business Deployment](/assets/PDF/ResearchLab.pdf)
 
    > Part of the Unified Communications course at CISA where students had to deploy and document a base install of Skype for Business 2015.
 
-   [Skype For Business Edge Deployment](/Assets/PDF/Lab9-EdgeDcoumentation-Gabrielk.pdf)
+   [Skype For Business Edge Deployment](/assets/PDF/Lab9-EdgeDcoumentation-Gabrielk.pdf)
 
    > Part of the Unified Communications course at CISA where students had to document and the deploy an SfB 2015 Edge Server.
 
-   [Capstone Project 1 Documentation](/Assets/PDF/CaptstoneProject1.pdf)
+   [Capstone Project 1 Documentation](/assets/PDF/CaptstoneProject1.pdf)
 
    > Co-Authored the final documentation for the first CISA Capstone project. This was a group assignment. I was the team lead and heavily involved in various aspects of deployment and documentation.
 
-   [BAIS 3995 - Network Management Capstone Documentation](/Assets/PDF/Team3%20-%20Technical%20Documentation.pdf)
+   [BAIS 3995 - Network Management Capstone Documentation](/assets/PDF/Team3%20-%20Technical%20Documentation.pdf)
 
    > Co-Authored Technical Documentation of the Capstone Project at Northern Alberta Institute of Technology. The project was a RPF for a fictitious medical scanning company operating out of Alberta and Nunavut. The document mostly covers what the team had planned or intended to implement before COVID-19 shut down the school. This included the L2 and L3 Network topologies and IP addressing schemes, Active Directory Topologies and GPO designs, and more.
 
-   [BAIS 3340 - Enterprise Multi-Layer Switching Lab 2](/Assets/PDF/Team3%20-%20Technical%20Documentation.pdf)
+   [BAIS 3340 - Enterprise Multi-Layer Switching Lab 2](/assets/PDF/Team3%20-%20Technical%20Documentation.pdf)
 
    > Co-Authored technical document submitted for our Enterprise Multi-Layer Switching class. I was responsible Section 3: GLBP Analysis in which I demonstrated through Wireshark how Cisco's proprietary Gateway Load Balancing Protocol works as well as how it is configured.  
 
