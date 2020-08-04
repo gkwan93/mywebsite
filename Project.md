@@ -8,7 +8,7 @@ Applying the skills that I have learned at BCI and NAIT, I maintain a some serve
 
 
 
-1. Nextcloud Server ( <https://box.gabrielk.ca/cloud)
+1. Nextcloud Server ( <https://box.gabrielk.ca/cloud> )
    - Ubuntu 18.04 LTS An alternative self-hosted file sync server akin to Google Drive or OneDrive
    - Was originally running on independently but has since used the integrated instance in mail-in-a-box
 2. Unifi Server ( <https://unifi.scptrl.ca:8080> )

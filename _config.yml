@@ -12,8 +12,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gabriel Kwan   
-email: me@gabrielk.ca 
+title: Gabriel Kwan 
+author:
+  name: Gabriel Kwan   
+  email: me@gabrielk.ca 
+  number: 778-996-6034
 description: >- # this means to ignore newlines until "baseurl:"
         Personal Website of Gabriel Kwan
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Gabriel Kwan. I am currently a student at the Northern Alberta Institute of Technology. I am finishing up the last class for the Bachelor of Applied Information Systems Technology (BAIST) and will be looking for internship to fulfil the applied portion of the degree. Previously, I completed a diploma in the Computer Information Systems  Administration(CISA) at British Columbia Institute of Technology - Burnaby Campus.
+My name is Gabriel Kwan. I am currently a student at the Northern Alberta Institute of Technology. I am finishing up the last class for the Bachelor of Applied Information Systems Technology (BAIST) and will be looking for internship to fulfil the applied portion of the degree. Previously, I completed a diploma in the Computer Information Systems  Administration (CISA) at British Columbia Institute of Technology - Burnaby Campus.
 
 ## Skills & Experience
 
@@ -11,9 +11,11 @@ Skills, experience or anything I am proud of.
 
 ## General Skills
    
-   - CCNA level Networking knowledge  [1] 
+   - CCNA level Networking knowledge  [^1] 
    - Windows Active Directory Administration
-   - Familiar with coding and scripting
+   - Familiar with coding and scripting 
+   - Knowledge of Linux ( most experience with Ubuntu, Arch, Fedora )
+   - Experience with Virtualization Technologies ( VMWare VSphere, Hyper-V,  ProxMox )
 
 ### Technical Documentation
    
@@ -53,4 +55,4 @@ Skills, experience or anything I am proud of.
 - VCEFC Cubbies Secretary  (2012-2019)
 
 
-[1] I do not have the actual certification but have completed CCNA level content during my time at CISA as well as BAIST. 
+[^1]: I do not have the actual certification but have completed CCNA level content during my time at CISA as well as BAIST. 
