@@ -27,7 +27,7 @@ As such, I decided to try Jekyll. Installation was straight forward.
 Only prerequisites were ruby. Being a fresh os install, I simply ran the command suggested for Ubuntu as seen below:
 
 ``` Bash
-# Install ruby and prerequsites
+# Install ruby and prerequisites
 sudo apt-get install ruby-full build-essential zlib1g-dev
 
 # Appending paths for local user, also modified ~/.bashrc to ~/.zshrc
