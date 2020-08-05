@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Applying the skills that I have learned at BCI and NAIT, I maintain a some servers in the cloud and at home. 
+Applying the skills that I have learned at BCI and NAIT, I maintain some personal servers in the cloud and at home. 
 
 
 
