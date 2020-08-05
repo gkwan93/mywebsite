@@ -3,15 +3,30 @@
     // for the documentation about the tasks.json format
     "version": "2.0.0",
     "tasks": [
+        // Compound tasks that executes "Build site" then "Upload" in that sequence
+        {
+            "label": "Build and Upload",
+            "type": "shell",
+            "dependsOrder": "sequence",
+            "dependsOn":["Build site", "Upload"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        //Task that builds static site
         {
             "label": "Build site",
             "type": "shell",
             "command": "bundle exec jekyll build",
             "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+        },
+        //Task that uploads the static site to server using scp
+        {
+            "label": "Upload",
+            "type":"shell",
+            "command": "scp -r _site/* gk@gabrielk.ca:/home/gk/www",
+            "problemMatcher": [],
         },
         // Starts up Webserver for local live testing
         {
