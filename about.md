@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Gabriel Kwan. I am currently a student at the Northern Alberta Institute of Technology. I am finishing up my last class for the Bachelor of Applied Information Systems Technology (BAIST) and will be looking for internship to fulfil the applied portion of the degree. Previously, I completed a diploma in the Computer Information Systems  Administration (CISA) at British Columbia Institute of Technology - Burnaby Campus.
+My name is Gabriel Kwan. I am currently a student at the Northern Alberta Institute of Technology. I am finishing up my last class for the Bachelor of Applied Information Systems Technology (BAIST) and will be looking for internship to fulfil the applied portion of the degree. Previously, I completed a diploma in the Computer Information Systems Administration (CISA) at British Columbia Institute of Technology - Burnaby Campus.
 
 ## Skills & Experience
 
@@ -15,7 +15,7 @@ Skills, experience or anything I am proud of.
    - Windows Active Directory Administration
    - Familiar with coding and scripting 
    - Knowledge of Linux ( most experience with Ubuntu, Arch, Fedora )
-   - Experience with Virtualization Technologies ( VMWare VSphere, Hyper-V,  ProxMox )
+   - Experience with Virtualization Technologies ( VMWare VSphere, Hyper-V, ProxMox )
 
 ### Technical Documentation
    
@@ -27,7 +27,7 @@ Skills, experience or anything I am proud of.
 
    [Skype For Business Edge Deployment](/assets/PDF/Lab9-EdgeDcoumentation-Gabrielk.pdf)
 
-   > Part of the Unified Communications course at CISA where students had to document and the deploy an SfB 2015 Edge Server.
+   > Part of the Unified Communications course at CISA where students had to document and the deployment an SfB 2015 Edge Server.
 
    [Capstone Project 1 Documentation](/assets/PDF/CaptstoneProject1.pdf)
 
@@ -37,7 +37,7 @@ Skills, experience or anything I am proud of.
 
    > The project was an RPF for a fictitious medical scanning company operating out of Alberta and Nunavut. The document mostly covers what the team had planned or intended to implement before the COVID-19 shut down at NAIT. This included the L2 and L3 Network topologies and IP addressing schemes, Active Directory Topologies, GPO designs, and more.
 
-   [BAIS 3340 - Enterprise Multi-Layer Switching Lab 2](/assets/PDF/Team3%20-%20Technical%20Documentation.pdf)
+   [BAIS 3340 - Enterprise Multi-Layer Switching Lab 2](/assets/PDF/BAIS3430%20-%20LAB2.pdf)
 
    > Co-Authored technical document submitted for our Enterprise Multi-Layer Switching class. I was responsible Section 3: GLBP Analysis in which I demonstrated through Wireshark how Cisco's proprietary Gateway Load Balancing Protocol works as well as how it is configured.  
 
