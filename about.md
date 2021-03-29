@@ -35,7 +35,7 @@ Skills, experience or anything I am proud of.
 
    [BAIS 3995 - Network Management Capstone Documentation](/assets/PDF/Team3%20-%20Technical%20Documentation.pdf)
 
-   > The project was an RPF for a fictitious medical scanning company operating out of Alberta and Nunavut. The document mostly covers what the team had planned or intended to implement before the COVID-19 shut down at NAIT. This included the L2 and L3 Network topologies and IP addressing schemes, Active Directory Topologies, GPO designs, and more.
+   > The project was an RFP for a fictitious medical scanning company operating out of Alberta and Nunavut. The document mostly covers what the team had planned or intended to implement before the COVID-19 shut down at NAIT. This included the L2 and L3 Network topologies and IP addressing schemes, Active Directory Topologies, GPO designs, and more.
 
    [BAIS 3340 - Enterprise Multi-Layer Switching Lab 2](/assets/PDF/BAIS3430%20-%20LAB2.pdf)
 
